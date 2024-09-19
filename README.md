@@ -26,7 +26,7 @@ The dataset used in this project comes from Kaggle's [Dog Breed Identification C
    - Convert the images and labels into TensorFlow-friendly formats.
 
 2. **Model Selection (Transfer Learning)**
-   - Use TensorFlow Hub to load a pre-trained model (`mobilenet_v2_130_224`).
+   - Use TensorFlow Hub to load a pre-trained model [`mobilenet_v2_130_224`](https://www.kaggle.com/models/google/mobilenet-v2/tensorFlow2/130-224-classification/1?tfhub-redirect=true).
    - The pre-trained model is fine-tuned for our dog breed classification task.
 
 3. **Model Training**
