@@ -87,24 +87,24 @@ With transfer learning, the model achieves over 70% accuracy on the validation d
 ---
 
 ### 🚀 How to Run
-1. Clone the Repository
+1. Clone the Repository   
 git clone https://github.com/your-username/dog-breed-classification.git
 cd dog-breed-classification
 
-3. Install Dependencies
+2. Install Dependencies   
 pip install -r requirements.txt
 
-4. Download the Dataset from Kaggle
+3. Download the Dataset from Kaggle   
 You can download the dataset from Kaggle's Dog Breed Identification competition and place it in the data directory.
 
-5. Run the Jupyter Notebook
+4. Run the Jupyter Notebook   
 Open the notebook using Jupyter or Google Colab:
 jupyter notebook notebooks/dog-vision.ipynb
 
-6. Train the Model
+6. Train the Model   
 Run the cells in the notebook to preprocess data, build the model, and start training.
 
-7. Make Predictions
+7. Make Predictions   
 Create a my-dog-photos folder and upload the photos of the predicted dog.
 Use the provided functions in the notebook to make predictions on the test set or custom images.
 
